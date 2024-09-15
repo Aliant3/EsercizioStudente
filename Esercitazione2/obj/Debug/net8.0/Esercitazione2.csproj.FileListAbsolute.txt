@@ -1,0 +1,14 @@
+C:\Users\Utente\source\repos\Esercitazione2\Esercitazione2\obj\Debug\net8.0\Esercitazione2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\Esercitazione2\Esercitazione2\obj\Debug\net8.0\Esercitazione2.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\Esercitazione2\Esercitazione2\obj\Debug\net8.0\Esercitazione2.AssemblyInfo.cs
+C:\Users\Utente\source\repos\Esercitazione2\Esercitazione2\obj\Debug\net8.0\Esercitazione2.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\Esercitazione2\Esercitazione2\bin\Debug\net8.0\Esercitazione2.exe
+C:\Users\Utente\source\repos\Esercitazione2\Esercitazione2\bin\Debug\net8.0\Esercitazione2.deps.json
+C:\Users\Utente\source\repos\Esercitazione2\Esercitazione2\bin\Debug\net8.0\Esercitazione2.runtimeconfig.json
+C:\Users\Utente\source\repos\Esercitazione2\Esercitazione2\bin\Debug\net8.0\Esercitazione2.dll
+C:\Users\Utente\source\repos\Esercitazione2\Esercitazione2\bin\Debug\net8.0\Esercitazione2.pdb
+C:\Users\Utente\source\repos\Esercitazione2\Esercitazione2\obj\Debug\net8.0\Esercitazione2.dll
+C:\Users\Utente\source\repos\Esercitazione2\Esercitazione2\obj\Debug\net8.0\refint\Esercitazione2.dll
+C:\Users\Utente\source\repos\Esercitazione2\Esercitazione2\obj\Debug\net8.0\Esercitazione2.pdb
+C:\Users\Utente\source\repos\Esercitazione2\Esercitazione2\obj\Debug\net8.0\Esercitazione2.genruntimeconfig.cache
+C:\Users\Utente\source\repos\Esercitazione2\Esercitazione2\obj\Debug\net8.0\ref\Esercitazione2.dll
